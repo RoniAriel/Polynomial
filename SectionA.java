@@ -1,4 +1,3 @@
-package il.ac.tau.cs.sw1.hw6;
 
 import java.util.LinkedList;
 
